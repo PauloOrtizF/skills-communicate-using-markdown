@@ -15,3 +15,6 @@ Now I will be adding a little piece of Python code.
 if horse == animal:
   print('the horse is real')
 ```
+Now I will be creating a task list
+- [ ] Do this exercise
+- [ ] Check if it worked
