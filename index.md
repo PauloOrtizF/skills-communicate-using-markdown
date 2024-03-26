@@ -9,3 +9,9 @@ I just played around with the different titles that you can use in Markdown
 
 Now I am going to add an image.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Now I will be adding a little piece of Python code.
+``` python
+if horse == animal:
+  print('the horse is real')
+```
